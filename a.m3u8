@@ -17,6 +17,18 @@ http://iptvh.it/snehzeecinema.m3u8
 http://iptvh.it/snehzeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla Cinema
 http://iptvh.it/snehzeebanglacinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors HD
+http://iptvh.it/snehcolorshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony HD
+http://iptvh.it/snehsonyhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Sab HD
+http://iptvh.it/snehsonysabhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Max HD
+http://iptvh.it/snehsonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV HD+
+http://iptvh.it/snehmtvhdplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV Beats HD
+http://iptvh.it/snehmtvbeatshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV 18 HD
 https://tvstream.space/jtv/yyy.php?c=History_18_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Discovery Hindi
