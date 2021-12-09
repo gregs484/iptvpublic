@@ -1,24 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla HD1
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla HD2
 http://iptvh.it/zeebd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Flix HD
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-channel_2105335046
+http://iptvh.it/snehandflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Privé HD
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
+http://iptvh.it/snehandprivehd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Explor HD
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
+http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Pictures HD
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
+http://iptvh.it/snehandpicshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Cinema
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinema
+http://iptvh.it/snehzeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Cinema HD
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemahd
+http://iptvh.it/snehzeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla Cinema
-https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebanglacinema
+http://iptvh.it/snehzeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV 18 HD
 https://tvstream.space/jtv/yyy.php?c=History_18_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Discovery Hindi
