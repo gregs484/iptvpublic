@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla HD2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Tsports HD
+https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , GTV HD
+https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla HD
 http://iptvh.it/zeebd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Flix HD
 http://iptvh.it/snehandflixhd.m3u8
@@ -29,6 +33,8 @@ http://iptvh.it/snehsonymaxhd.m3u8
 http://iptvh.it/snehmtvhdplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV Beats HD
 http://iptvh.it/snehmtvbeatshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Cafe HD
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV 18 HD
 https://tvstream.space/jtv/yyy.php?c=History_18_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Discovery Hindi
@@ -49,8 +55,6 @@ https://tvstream.space/jtv/yyy.php?c=Sony_HD&=800&e=.m3u8
 https://tvstream.space/jtv/yyy.php?c=Sony_SAB_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors Cineplex HD
 https://tvstream.space/jtv/yyy.php?c=Colors_Cineplex_HD&=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Pictures HD
-https://tvstream.space/jtv/yyy.php?c=And_Pictures_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Entertainment HD
 https://mhdtvworld.co.in/red/nnn.php?id=2689&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Epic
@@ -86,3 +90,7 @@ https://tvstream.space/jtv/yyy.php?c=Jio_KIDS&=800&e=.m3u8
 https://tvstream.space/jtv/yyy.php?c=Comedy_Central_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV HD
 https://tvstream.space/jtv/yyy.php?c=History_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , I Love Music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Star Jalsha
+http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
