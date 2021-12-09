@@ -1,1 +1,56 @@
-salma iptv 01943000
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Channel 24
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV 18 HD
+https://tvstream.space/jtv/yyy.php?c=History_18_Hindi&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Discovery Hindi
+https://tvstream.space/jtv/yyy.php?c=Discovery_Channel_Hindi&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Filmachi
+https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors HD
+https://tvstream.space/jtv/yyy.php?c=Colors_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Mtv Beats HD
+https://tvstream.space/jtv/yyy.php?c=MTV_Beats_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Mtv HD+
+https://tvstream.space/jtv/yyy.php?c=MTV_HD_Plus&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Max HD
+https://tvstream.space/jtv/yyy.php?c=Sony_Max_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Entertainment HD
+https://tvstream.space/jtv/yyy.php?c=Sony_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Sab HD
+https://tvstream.space/jtv/yyy.php?c=Sony_SAB_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors Cineplex HD
+https://tvstream.space/jtv/yyy.php?c=Colors_Cineplex_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Pictures HD
+https://tvstream.space/jtv/yyy.php?c=And_Pictures_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Entertainment HD
+https://mhdtvworld.co.in/red/nnn.php?id=2689&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Epic
+https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://mhdtvworld.co.in/red/nnn.php?id=1999&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Star Sports 2
+https://mhdtvworld.co.in/red/nnn.php?id=2010&e=.m3u8
+https://mhdtvworld.co.in/red/nnn.php?id=3085&e=.m3u8
+https://mhdtvworld.co.in/red/nnn.php?id=2932&e=.m3u8
+https://mhdtvworld.co.in/red/nnn.php?id=1998&e=.m3u8
+https://mhdtvworld.co.in/red/nnn.php?id=2006&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Pix HD
+https://tvstream.space/jtv/yyy.php?c=Sony_Pix_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Sony Pix HD
+https://mhdtvworld.co.in/red/nnn.php?id=2700&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors Infinity HD
+https://tvstream.space/jtv/yyy.php?c=Colors_Infinity_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Discovery SD
+https://tvstream.space/jtv/yyy.php?c=Discovery&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors Infinity SD
+https://tvstream.space/jtv/yyy.php?c=Colors_Infinity_SD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Jio Kids
+https://tvstream.space/jtv/yyy.php?c=Jio_KIDS&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Comedy Central
+https://tvstream.space/jtv/yyy.php?c=Comedy_Central_HD&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , History TV HD
+https://tvstream.space/jtv/yyy.php?c=History_HD&=800&e=.m3u8
