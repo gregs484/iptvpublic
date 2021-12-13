@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/otLM2mQ7rWA4G2du8" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA" , Tsports HD
