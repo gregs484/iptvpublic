@@ -1,30 +1,28 @@
 #EXTM3U
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/otLM2mQ7rWA4G2du8" , Channel 24
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/otLM2mQ7rWA4G2du8.png , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" , Tsports HD
 https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" , GTV HD
 https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
+http://208.86.19.21/609.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" , Zee Bangla HD
 http://iptvh.it/zeebd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Flix HD
-http://iptvh.it/snehandflixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Privé HD
-http://iptvh.it/snehandprivehd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Explor HD
+#EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" , And Xplor HD
 http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , And Pictures HD
 http://iptvh.it/snehandpicshd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Cinema
+#EXTINF:-1 tvg-logo="https://imgur.com/YOtzZBL.png" , Zee Cinema
 http://iptvh.it/snehzeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" , Zee Cinema HD
 http://iptvh.it/snehzeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" , Zee Bangla Cinema
 http://iptvh.it/snehzeebanglacinema.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors HD
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors HD
 http://iptvh.it/snehcolorshd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/VY2Cahn.png" , Sony HD
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" , Sony HD
 http://iptvh.it/snehsonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" , Sony Sab HD
 http://iptvh.it/snehsonysabhd.m3u8
@@ -34,29 +32,31 @@ http://iptvh.it/snehsonymaxhd.m3u8
 http://jupiter.bdcabletv.com/Stargold-ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" , Star Gold Select HD
 http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV HD+
+#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" , MTV HD+
 http://iptvh.it/snehmtvhdplus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV Beats HD
+#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" , MTV Beats HD
 http://iptvh.it/snehmtvbeatshd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://imgur.com/LXzUO4g.png" , Zee Cafe HD
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Filmachi
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" , And Flix HD
+http://iptvh.it/snehandflixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Privé HD
+http://iptvh.it/snehandprivehd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F0EIgi3.png" , Filmachi
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Epic
+#EXTINF:-1 tvg-logo="https://imgur.com/jfLsriJ.png" , Epic
 https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 9XM
+#EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" , 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , I Love Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Star Jalsha
 http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Utv Movies
+#EXTINF:-1 tvg-logo="https://imgur.com/JuiBO9w.png" , Utv Movies
 http://jupiter.bdcabletv.com/UTVMO/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Willow HD
+#EXTINF:-1 tvg-logo="https://imgur.com/2nWRuqm.png" , Willow HD
 http://jupiter.bdcabletv.com/will/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Astro Cricket
-http://208.86.19.21/720.stream/index.m3u8 Astro
-#EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
-http://208.86.19.21/609.stream/index.m3u8 Deepto
+#EXTINF:-1 tvg-logo="https://imgur.com/pnvWzZ2.png" , Astro Cricket
+http://208.86.19.21/720.stream/index.m3u8
