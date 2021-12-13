@@ -60,3 +60,5 @@ http://jupiter.bdcabletv.com/UTVMO/video.m3u8
 http://jupiter.bdcabletv.com/will/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pnvWzZ2.png" , Astro Cricket
 http://208.86.19.21/720.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pnvWzZ2.png" , Sony Ten1 HD
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
