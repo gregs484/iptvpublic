@@ -24,14 +24,16 @@ http://iptvh.it/snehzeecinemahd.m3u8
 http://iptvh.it/snehzeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , Colors HD
 http://iptvh.it/snehcolorshd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/VY2Cahn" , Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://imgur.com/a/VY2Cahn.png" , Sony HD
 http://iptvh.it/snehsonyhd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3" , Sony Sab HD
+#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" , Sony Sab HD
 http://iptvh.it/snehsonysabhd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs" , Sony Max HD
+#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" , Sony Max HD
 http://iptvh.it/snehsonymaxhd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP" , Star Gold HD
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" , Star Gold HD
 http://jupiter.bdcabletv.com/Stargold-ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" , Star Gold Select HD
+http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV HD+
 http://iptvh.it/snehmtvhdplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , MTV Beats HD
@@ -48,5 +50,13 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , I Love Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st" , Star Jalsha
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Star Jalsha
 http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Utv Movies
+http://jupiter.bdcabletv.com/UTVMO/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Willow HD
+http://jupiter.bdcabletv.com/will/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Astro Cricket
+http://208.86.19.21/720.stream/index.m3u8 Astro
+#EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
+http://208.86.19.21/609.stream/index.m3u8 Deepto
