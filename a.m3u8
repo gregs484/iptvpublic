@@ -6,6 +6,10 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+http://103.161.2.142/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla", ATN News
@@ -20,14 +24,20 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla", News24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD (BDIX0)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary", TravelXP 
+#EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv
+http://103.161.2.142/hls/nagoriktv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV
+http://103.161.2.142/hls/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/04FVgLd.png" group-title="Bangla", Ekushe ETV
+http://103.161.2.142/hls/etv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png"  group-title="Documentary", TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
-http://208.86.19.21/609.stream/index.m3u8
+http://103.161.2.142/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" , &xplorHD
 http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , &Pictures HD
@@ -42,6 +52,8 @@ http://iptvh.it/zeebd.m3u8
 http://iptvh.it/snehzeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors HD
 http://iptvh.it/snehcolorshd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors Cineplex HD
+http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" , Sony HD
 http://iptvh.it/snehsonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" , Sony Sab HD
@@ -58,10 +70,26 @@ http://iptvh.it/snehmtvhdplus.m3u8
 http://iptvh.it/snehmtvbeatshd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LXzUO4g.png" , Zee Cafe HD
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" , Sony Pix HD
+http://103.161.2.142/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" , Star Movies HD
+http://103.161.2.142/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" , AXN
+http://103.161.2.142/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" , And Flix HD
 http://iptvh.it/snehandflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Prive HD
 http://iptvh.it/snehandprivehd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
+http://103.161.2.142/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6JNCYaM.png" group-title="Documentary", Nat Geo Wild
+http://103.161.2.142/hls/wild.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCZ9R6r.png" group-title="English", Alzazira
+http://103.161.2.142/hls/alzazira.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ggVQsnj.png" group-title="English", BBC News
+http://103.161.2.142/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" , Jalsha Movies
+http://103.161.2.142/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F0EIgi3.png" , Filmachi
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jfLsriJ.png" , Epic
@@ -80,8 +108,6 @@ http://jupiter.bdcabletv.com/UTVMO/video.m3u8
 http://jupiter.bdcabletv.com/will/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pnvWzZ2.png" , Astro Cricket
 http://208.86.19.21/720.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pnvWzZ2.png" , Sony Ten1 HD
-http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", &Prive HD
 http://103.153.39.36:8000/play/a01d
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", &flix HD
@@ -120,7 +146,7 @@ http://103.153.39.36:8000/play/a00h
 http://103.153.39.36:8000/play/a01i
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Documentary", NAT Geo Wild HD
 http://103.153.39.36:8000/play/a00i
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Documentary", National Geographic HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
 http://103.153.39.36:8000/play/a00x
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Cartoon", Nick Jr.
 http://103.153.39.36:8000/play/a023
@@ -204,5 +230,9 @@ http://103.153.39.36:8000/play/a01g
 http://cablevision.ddns.net/live/PCPSCEDAQt/ou0mthW/857.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
+http://208.86.19.21/609.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Hh5Te4E.png" group-title="Movies & Series", Mumbai Saga
 http://fs.ebox.live/Movies/Bollywood/2021/Mumbai%20Saga%20[2021]/Mumbai%20Saga%20(2021)__1080p.WEBrip__E-BOX.mp4
