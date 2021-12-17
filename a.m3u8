@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Tu8AyTZ.png" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.161.2.142/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
@@ -53,23 +53,25 @@ http://iptvh.it/zeebd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" , Zee Bangla Cinema
 http://iptvh.it/snehzeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors HD
-http://iptvh.it/snehcolorshd.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors Cineplex HD
 http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" , Sony HD
-http://iptvh.it/snehsonyhd.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_HD&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" , Sony Sab HD
-http://iptvh.it/snehsonysabhd.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_SAB_HD&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" , Sony Max HD
-http://iptvh.it/snehsonymaxhd.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Max_HD&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" , Star Gold HD
 http://jupiter.bdcabletv.com/Stargold-ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" , Star Gold Select HD
 http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
-http://iptvh.it/snehmtvhdplus.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_HD_Plus&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
-http://iptvh.it/snehmtvbeatshd.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QUWzAxO.png" group-title="Music", VH1
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=VH1&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LXzUO4g.png" , Zee Cafe HD
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" , Sony Pix HD
@@ -78,6 +80,8 @@ http://103.161.2.142/hls/sonypixhd.m3u8
 http://103.161.2.142/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" , AXN
 http://103.161.2.142/hls/axn.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Documentary", History TV18 HD
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=History_18_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" , And Flix HD
 http://iptvh.it/snehandflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Prive HD
