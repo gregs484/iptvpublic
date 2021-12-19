@@ -6,6 +6,10 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.161.2.142/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/66060.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
@@ -44,6 +48,8 @@ http://103.161.2.142/hls/dipto.m3u8
 http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , &Pictures HD
 http://iptvh.it/snehandpicshd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , &Pictures HD
+http://jupiter.bdcabletv.com/And_Pic-enc/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOtzZBL.png" , Zee Cinema
 http://iptvh.it/snehzeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" , Zee Cinema HD
@@ -66,6 +72,8 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Max_HD&q=600&e
 http://jupiter.bdcabletv.com/Stargold-ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" , Star Gold Select HD
 http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" group-title="Music", Zoom
+http://103.161.2.142/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_HD_Plus&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
@@ -78,6 +86,8 @@ https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecafehd
 http://103.161.2.142/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" , Star Movies HD
 http://103.161.2.142/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" , Star Movies Select HD
+http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" , AXN
 http://103.161.2.142/hls/axn.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Documentary", History TV18 HD
