@@ -222,8 +222,6 @@ http://103.153.39.36:8000/play/a027
 http://103.153.39.36:8000/play/a01p
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Utv Movies
 http://103.153.39.36:8000/play/a01o
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Anmol
-http://103.153.39.36:8000/play/a00s
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Cinema HD
 http://103.153.39.36:8000/play/a00z
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Cafe HD
@@ -242,17 +240,25 @@ http://103.153.39.36:8000/play/a01z
 http://103.153.39.36:8000/play/a01c
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Entertainment", Comedy Central
 http://103.153.39.36:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Star Jalsha HD (Cable Vision)
 http://cablevision.ddns.net/live/PCPSCEDAQt/ou0mthW/857.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD (pk)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony MAX (pk)
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
 http://208.86.19.21/609.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Shang-Chi and the Legend of the Ten Rings (2021) Bluray
+http://fs.ebox.live/Movies/Hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20Bluray-1080p.mkv
 #EXTINF:-1 tvg-logo="https://imgur.com/Hh5Te4E.png" group-title="Movies & Series", Mumbai Saga
 http://fs.ebox.live/Movies/Bollywood/2021/Mumbai%20Saga%20[2021]/Mumbai%20Saga%20(2021)__1080p.WEBrip__E-BOX.mp4
+#EXTINF:-1 tvg-logo="#" group-title="Movies & Series",Dial 100
+http://fs.ebox.live/Movies/Bollywood/2021/Dial%20100%20(2021)/Dial%20100%20(2021)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Gunjan Saxena
+http://fs.ebox.live/Movies/Bollywood/2020/Gunjan%20Saxena.mkv
+#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Dostana
+http://fs.ebox.live/Movies/Bollywood/2008/Dostana%20[2008]/Dostana.2008__720p.BRrip__E-BOX.mkv
