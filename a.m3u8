@@ -6,7 +6,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.161.2.142/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/66060.m3u8
@@ -328,8 +328,21 @@ http://ukiptvs.ddns.net/905.stream/tracks-v1a1/2021/12/20/14/10/14-05760.ts?toke
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",26
 http://ssiptv01.ddns.net:8080/live/carter/GUV1bMq2VK/179.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="NHDT",, Sony HD
+https://dash.nowhdtime.com.bd/SonyTVHD/tracks-v1a1/mono.m3u8?token=26fcaab36f34f334b95a631fe83f15e3c3074f94-94e16f0db3b5906ac183255d7562dfc0-1640090434-1640079634
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="NHDT", Sony Max HD
+https://dash.nowhdtime.com.bd/SonyMaxHD/tracks-v1a1/mono.m3u8?token=4a5c12e71c66d80369eea18236c48779b815dfc1-70a01bc88f3777ac2710717af2e1fd34-1640090435-1640079635
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="NHDT", Gtv HD
+https://dash.nowhdtime.com.bd/j-GTV/tracks-v1a1/mono.m3u8?token=b749f9c867c9b3c91dbcb28e14aacfc84eeae9dd-452868d32e793068c3a21dc314775529-1640090278-1640079478
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="NHDT", Star Sports Select HD
+https://dash.nowhdtime.com.bd/j-star-sports-select2/tracks-v1a1/mono.m3u8?token=d82e2bfa8180ead765403daa7e8b1c3d0b9605d8-579467e6e0ee61b7c68b575f7204c731-1640090441-1640079641
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD ICC-1
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD ICC-2
+http://10.16.100.245/hindi/T_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Shang-Chi and the Legend of the Ten Rings (2021) Bluray
 http://fs.ebox.live/Movies/Hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20Bluray-1080p.mkv
