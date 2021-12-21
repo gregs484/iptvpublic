@@ -252,6 +252,85 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" , Deepto HD
 http://208.86.19.21/609.stream/index.m3u8
 
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="BDCABLETV", Sony MAx HD
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="BDCABLETV", And  PIctures HD
+http://jupiter.bdcabletv.com/And_Pic-enc/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="BDCABLETV", Jalsha Movies
+http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="BDCABLETV", Star Jalsha
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange", 1
+http://itcare.ddns.net:5868/IN-BANGLA-3/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange", 2
+http://goldstarnet.ddns.net/hls/colorscineplex.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",3
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",4
+http://suncableiptv.serveftp.com/StarBharat_HD/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",5
+http://suncableiptv.serveftp.com/And_Pic-enc/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",6
+http://mangoiptvip.ddns.net/iptv/SNZC9Z4RPEYGA3/6595/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",7
+http://suncableiptv.serveftp.com/SonyTV_ENC/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",8
+http://shark2.dyndns.tv:5808/cy-setmax/tracks-v1/mono.m3u8?token=
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",9
+http://213.183.42.2/iptv/SNZC9Z4RPEYGA3/405/1640008312000.ts
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",10
+http://novst1.1234.uno:6061/rishtecineplex/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",11
+http://suncableiptv.serveftp.com/StarGoldSelectHD/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",12
+http://suncableiptv.serveftp.com/Stargold-ENC/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",13
+http://210.210.155.35/dr9445/h/h141/01.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange", AXN
+http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange", HBO
+http://190.171.101.36/HBO/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange", Cinemax
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",14
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",15
+http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",16
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",17
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",18
+http://suncableiptv.serveftp.com/will/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",19
+http://suncableiptv.serveftp.com/StarSports_2-Enc/video.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",20
+http://ukiptvs.ddns.net/905.stream/index.m3u8?token=5444edb33c418ec74b189657-5444edb33c418ec74b189657
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",20 test
+http://ukiptvs.ddns.net/905.stream/index.m3u8?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",21
+http://mangoiptvip.ddns.net/iptv/SNZC9Z4RPEYGA3/6582/index.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",22
+http://itcare.ddns.net:5868/MUSIC-10/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",23
+http://ukiptvs.ddns.net/906.stream/index.m3u8?token=5444edb33c418ec74b189657-5444edb33c418ec74b189657
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",23 test
+http://ukiptvs.ddns.net/906.stream/index.m3u8?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",24
+http://ukiptvs.ddns.net/609.stream/index.m3u8?token=5444edb33c418ec74b189657-5444edb33c418ec74b189657
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",24 test
+http://ukiptvs.ddns.net/609.stream/index.m3u8?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",25
+http://ukiptvs.ddns.net/905.stream/tracks-v1a1/2021/12/20/14/10/14-05760.ts?token=5444edb33c418ec74b189657-5444edb33c418ec74b189657
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",25 test
+http://ukiptvs.ddns.net/905.stream/tracks-v1a1/2021/12/20/14/10/14-05760.ts?token=test
+#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Orange",26
+http://ssiptv01.ddns.net:8080/live/carter/GUV1bMq2VK/179.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Shang-Chi and the Legend of the Ten Rings (2021) Bluray
 http://fs.ebox.live/Movies/Hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20Bluray-1080p.mkv
 #EXTINF:-1 tvg-logo="https://imgur.com/Hh5Te4E.png" group-title="Movies & Series", Mumbai Saga
