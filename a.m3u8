@@ -3,17 +3,9 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Tu8AyTZ.png" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.161.2.142/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/66060.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://103.161.2.142/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
@@ -47,17 +39,9 @@ http://103.161.2.142/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" , &xplorHD
 http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , &Pictures HD
-http://iptvh.it/snehandpicshd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" , &Pictures HD
 http://jupiter.bdcabletv.com/And_Pic-enc/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YOtzZBL.png" , Zee Cinema
-http://iptvh.it/snehzeecinema.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" , Zee Cinema HD
-http://iptvh.it/snehzeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" , Zee Bangla HD
 http://iptvh.it/zeebd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" , Zee Bangla Cinema
-http://iptvh.it/snehzeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors HD
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" , Colors Cineplex HD
@@ -92,10 +76,6 @@ http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 http://103.161.2.142/hls/axn.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Documentary", History TV18 HD
 https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=History_18_Hindi&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" , And Flix HD
-http://iptvh.it/snehandflixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , And Prive HD
-http://iptvh.it/snehandprivehd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
 http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6JNCYaM.png" group-title="Documentary", Nat Geo Wild
@@ -210,40 +190,6 @@ http://103.153.39.36:8000/play/a026
 http://103.153.39.36:8000/play/a00d
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sports", Star Sports 3
 http://103.153.39.36:8000/play/a00l
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV",Star Sports Select 1 HD
-http://103.153.39.36:8000/play/a018
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Star Sports Select 2 HD
-http://103.153.39.36:8000/play/a019
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Star Movies Select HD
-http://103.153.39.36:8000/play/a00w
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", TLC HD
-http://103.153.39.36:8000/play/a027
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Utv Action
-http://103.153.39.36:8000/play/a01p
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Utv Movies
-http://103.153.39.36:8000/play/a01o
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Cinema HD
-http://103.153.39.36:8000/play/a00z
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Cafe HD
-http://103.153.39.36:8000/play/a00t
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Zee Tv HD
-http://103.153.39.36:8000/play/a00n
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Music", Zoom
-http://103.153.39.36:8000/play/a025
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Colors Infinity HD
-http://103.153.39.36:8000/play/a01b
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Sneh AirtelTV", Hungama
-http://103.153.39.36:8000/play/a01x
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Cartoon", Nick
-http://103.153.39.36:8000/play/a01z
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Cartoon", Nick HD+
-http://103.153.39.36:8000/play/a01c
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Entertainment", Comedy Central
-http://103.153.39.36:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" , Star Jalsha HD (Cable Vision)
-http://cablevision.ddns.net/live/PCPSCEDAQt/ou0mthW/857.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD (pk)
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
@@ -337,20 +283,3 @@ https://dash.nowhdtime.com.bd/j-GTV/tracks-v1a1/mono.m3u8?token=b749f9c867c9b3c9
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="NHDT", Star Sports Select HD
 https://dash.nowhdtime.com.bd/j-star-sports-select2/tracks-v1a1/mono.m3u8?token=d82e2bfa8180ead765403daa7e8b1c3d0b9605d8-579467e6e0ee61b7c68b575f7204c731-1640090441-1640079641
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD ICC-1
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD ICC-2
-http://10.16.100.245/hindi/T_Sports.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-
-#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Shang-Chi and the Legend of the Ten Rings (2021) Bluray
-http://fs.ebox.live/Movies/Hollywood/2021/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20Bluray-1080p.mkv
-#EXTINF:-1 tvg-logo="https://imgur.com/Hh5Te4E.png" group-title="Movies & Series", Mumbai Saga
-http://fs.ebox.live/Movies/Bollywood/2021/Mumbai%20Saga%20[2021]/Mumbai%20Saga%20(2021)__1080p.WEBrip__E-BOX.mp4
-#EXTINF:-1 tvg-logo="#" group-title="Movies & Series",Dial 100
-http://fs.ebox.live/Movies/Bollywood/2021/Dial%20100%20(2021)/Dial%20100%20(2021)%20WEBDL-1080p.mkv
-#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Gunjan Saxena
-http://fs.ebox.live/Movies/Bollywood/2020/Gunjan%20Saxena.mkv
-#EXTINF:-1 tvg-logo="#" group-title="Movies & Series", Dostana
-http://fs.ebox.live/Movies/Bollywood/2008/Dostana%20[2008]/Dostana.2008__720p.BRrip__E-BOX.mkv
